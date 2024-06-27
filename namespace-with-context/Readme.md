@@ -35,3 +35,9 @@ example: <minikube>
 ```python
 kubectl config use-context my-context
 ```
+
+# List the pods
+
+```python
+kubectl get po
+```
